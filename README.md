@@ -45,10 +45,9 @@ The pre processing for the Linear regression algorithm was slightly different. I
 ### Results
 
 Below are the results for each algorithm.
-
-<br>KNN Accuracy Score : 0.6151906839009164.
-<br>Random Forest Accuracy Score: Score: 0.9346512465484813.
-<br>Linear Regression Coefficient of Determination: 0.44896589290159583.
+<br>**KNN Accuracy Score:**  0.6151906839009164.
+<br>**Random Forest Accuracy Score:** 0.9346512465484813.
+<br>**Linear Regression Coefficient of Determination:** 0.44896589290159583.
 
 ![image](https://user-images.githubusercontent.com/41071502/135657500-5a0ea412-30ba-4da3-b35e-5f3e33826f94.png)
 
