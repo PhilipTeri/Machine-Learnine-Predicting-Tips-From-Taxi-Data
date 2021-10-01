@@ -1,6 +1,6 @@
 # Machine Learning - Predicting Tips From Taxi Data
 
-#### Purpose
+### Purpose
 
 The purpose of this project is to use existing taxi data to train a machine learning model that predict how much a rider will tip. I used the K-Nearest Neighbors, Random Forest and Linear regression algorithms to make predictions.
 
