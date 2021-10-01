@@ -58,6 +58,7 @@ Random forest performed the best of all of the algorithms, so I used it to deter
 <br>• See if I can find data on tipping using different payment methods.
 <br>• Try adding the time of trip feature and see if it makes a difference.
 <br>• Use more data, try running this for a whole year rather than a sample from 3 months. 
+<br>• Remove fare_amount, this may be a redundant column.
 
 ### Data Source
 https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page
