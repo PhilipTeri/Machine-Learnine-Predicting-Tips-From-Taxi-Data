@@ -46,9 +46,9 @@ The pre processing for the Linear regression algorithm was slightly different. I
 
 Below are the results for each algorithm.
 
-KNN Accuracy Score : 0.6151906839009164 
-Random Forest Accuracy Score: Score: 0.9346512465484813
-Linear Regression Coefficient of Determination: 0.44896589290159583
+<br>KNN Accuracy Score : 0.6151906839009164.
+<br>Random Forest Accuracy Score: Score: 0.9346512465484813.
+<br>Linear Regression Coefficient of Determination: 0.44896589290159583.
 
 ![image](https://user-images.githubusercontent.com/41071502/135657500-5a0ea412-30ba-4da3-b35e-5f3e33826f94.png)
 
@@ -56,9 +56,9 @@ Random forest performed the best of all of the algorithms, so I used it to deter
 
 ### Future Improvements
 
-• See if I can find data on tipping using different payment methods.
-• Try adding the time of trip feature and see if it makes a difference.
-• Use more data, try running this for a whole year rather than a sample from 3 months. 
+<br>• See if I can find data on tipping using different payment methods.
+<br>• Try adding the time of trip feature and see if it makes a difference.
+<br>• Use more data, try running this for a whole year rather than a sample from 3 months. 
 
 
 
