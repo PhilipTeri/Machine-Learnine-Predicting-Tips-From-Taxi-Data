@@ -1,4 +1,4 @@
-# Machine Learning - Predicting Tips From Taxi Data
+# Machine Learning - Taxi Data Analysis
 
 ## Purpose
 
